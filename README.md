@@ -1,1 +1,2 @@
-"# GT-R Tuning Studio"   # Створюємо базовий README
+╨Т╨╡╤А╤Б╤Ц╤П 1.0
+"# GT-R Tuning Studio"   # я┐╜твоя┐╜я┐╜я┐╜ я┐╜я┐╜я┐╜я┐╜я┐╜я┐╜я┐╜ README

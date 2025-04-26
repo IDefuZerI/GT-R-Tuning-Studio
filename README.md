@@ -1,2 +1,1 @@
-# GT-R Tuning Studio
-–ü–ª–∞—Ç—Ñ–æ—Ä–º–∞ –¥–ª—è 3D —Ç—é–Ω—ñ–Ω–≥—É Nissan GT-R R34/R35
+"# GT-R Tuning Studio"   # ë‚¢Æ‡ÓÛ¨Æ °†ßÆ¢®© README
